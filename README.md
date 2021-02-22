@@ -13,27 +13,27 @@ This project utilized HTML, CSS, and Javascript languages to perform its task. T
 When navigated to the generator, the user is given the prompts to:
 
 1. select if they would like lowercase letters
-![picture](images/assets/lwr.png)
+![picture](assets/images/lwr.png)
 
 2. select if they would like uppercase letters
-![picture](images/assets/upr.png)
+![picture](assets/images/upr.png)
 
 3. select if they would like numbers
-![picture](images/assets/nbr.png)
+![picture](assets/images/nbr.png)
 
 4. select if they would like lowercase letters
-![picture](images/assets/sym.png)
+![picture](assets/images/sym.png)
 
 5. select their length 8-128
-![picture](images/assets/lgth.png)
+![picture](assets/images/lgth.png)
 
 After all of the prompts, the user will:
 
 1. click button to generate
-![picture](images/assets/gnr.png)
+![picture](assets/images/gnr.png)
 
 2. see result
-![picture](images/assets.rslt.png)
+![picture](assets/images.rslt.png)
 
 After the first result is given, the user can continue to click the "generate" button to keep recieving randomized passwords with their specific requests. If the user would like to remove or add one of the options (for example, remove symbols if they had previously requested they wanted them) the user would refresh and start the process over.
 
